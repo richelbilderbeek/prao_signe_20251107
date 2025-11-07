@@ -9,6 +9,7 @@
 - [Report](report.md): see [report](report.md)
 - [Reflection](reflection.md): see [reflection](reflection.md)
 - [Reflection from supervisor](reflection_from_supervisor.md): see [Reflection from supervisor](reflection_from_supervisor.md)
+- [Link to PRAO schedule](https://docs.google.com/spreadsheets/d/1BkG-ni6lGVyfSBe_FIRclETSmP8F_uuYG6bkS8pue_4/edit?gid=0#gid=0)
 
 ## PRAO goal
 
