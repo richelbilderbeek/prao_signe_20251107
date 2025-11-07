@@ -16,7 +16,16 @@ To find out how working life at NBIS/UPPMAX/UU is like.
 
 ## PRAO project
 
-### Project 1: feedback
+### Project 1: PRAOs
+
+I need feedback from an outsider (you!) about what is a good
+PRAO and what is a good PRAO supervisor
+
+- Write down in your report what the goal is of a PRAO
+- You've had multiple PRAO supervisors. Which one achieved the goal
+  of a PRAO best? Why?
+
+### Project 2: feedback
 
 I need feedback from an outsider (you!) about some course material.
 The goal is to be able to improve a course.
@@ -33,7 +42,7 @@ Signe   |[Documentation](https://uppmax.github.io/programming_formalisms/deploym
 Signe   |[Package](https://uppmax.github.io/programming_formalisms/package/)
 Signe   |[Refactoring and Modular programming](https://uppmax.github.io/programming_formalisms/modularity/modular/)
 
-### Project 2: runtime speed profile
+### Project 3: runtime speed profile
 
 Here is some code that creates a runtime speed profile
 and that finds the faster implementation of `isprime`:
